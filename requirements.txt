@@ -6,7 +6,6 @@ charset-normalizer==3.3.2
 cryptography==42.0.2
 firebase-admin==6.4.0
 google-cloud-vision
-google_cloud_vision
 google-api-core==2.17.1
 google-api-python-client==2.118.0
 google-auth==2.27.0
