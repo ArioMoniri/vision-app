@@ -1,0 +1,1 @@
+It is a website hosted by streamlit. No additional running guides needed, but to run locally there is a need to extract the secrets and id json files but because the repo is public I did not load them here and tried to implement as variables in the code.
