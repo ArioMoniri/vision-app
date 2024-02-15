@@ -1,5 +1,5 @@
 import streamlit as st
-from google.cloud import vision
+import google-cloud-vision as vision
 import requests
 import io
 
