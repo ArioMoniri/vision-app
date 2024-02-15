@@ -33,6 +33,6 @@ requests==2.31.0
 rsa==4.9
 uritemplate==4.1.1
 urllib3==2.2.0
-google.cloud 
+pip install google.cloud 
 google.cloud.bigquery
 protobuf = ">=3.6.0, !=3.11"
